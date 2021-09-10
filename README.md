@@ -1,8 +1,6 @@
 # unchurnable
 This is a program used for some results obtained in the paper "Incompressibility of H-free edge modification problems: Towards a dichotomy" by Dániel Marx and R. B. Sandeep.
 
-Given a list of graphs in g6 (graph6) format
-
 Usage python2 unchurnable.py input.g6 output.txt
 
 The expected input file is a list of graphs in graph6 (g6) format. Please see the following link for the details of the format: https://users.cecs.anu.edu.au/~bdm/data/formats.html
